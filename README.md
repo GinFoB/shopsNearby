@@ -7,7 +7,7 @@
    <li>php artisan key:generate</li>
   <li>composer require laravel/passport</li>
   <li>php artisan migrate</li>
-  <li>php artisan passport:install <i>copy past 2 the generate key for password</i>
+  <li>php artisan passport:install <i>copy past the scond generate key for password</i>
   <b>Past key in Http/controller/Api/AuthController in line 45</b> client_secret => API_KEY
   </li> 
   
