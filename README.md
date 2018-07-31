@@ -26,4 +26,4 @@
 <h3 style="color: red">Must also active localization in google chrome</h3>
 
 
-I hope i didn't forget anything ;)
+I hope i didn't forget anything ;) 
